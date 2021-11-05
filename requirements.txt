@@ -1,7 +1,6 @@
 Flask==1.1.2
 imutils==0.5.4
-numpy==1.19.4
-opencv_python-headless==4.2.0.32
-Pillow==8.4.0
-skimage==0.0
+numpy==1.18.5
+opencv-python-headless==4.2.0.32
+Pillow==8.0.1
 gunicorn
